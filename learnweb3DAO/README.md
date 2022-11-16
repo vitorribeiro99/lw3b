@@ -1,0 +1,7 @@
+### deployed contract's address
+
+0xB859D27E59e8B058F43a9569C306c5C797C751B3
+
+### NFT contract address
+
+0x97AE645bF044228549961db5639546138FCB2260
